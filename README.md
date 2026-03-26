@@ -4,7 +4,7 @@ A structured collection of hands-on PyTorch implementations covering deep learni
 
 Contents
 
-1. Basics (Tensors, Autograd)
+1\. Basics (Tensors, Autograd)
 
 2\. Neural Networks \& Training Pipelines
 
