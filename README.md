@@ -36,3 +36,7 @@ GitHub: https://github.com/Pratikkonduskar
 
 LinkedIn: https://www.linkedin.com/in/pratik-konduskar-210983230
 
+NOTE
+
+This repository represents my structured hands-on journey in learning PyTorch and deep learning concepts.
+
